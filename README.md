@@ -1,13 +1,11 @@
-# three-go
-## A Stripped-Down ThreeJS Boilerplate
-### (intended for rapid prototyping and quick single page experiments)
-
-![alt](https://raw.githubusercontent.com/MichaelHazani/three-go/master/scr.png)
+# webdev-go
+## A Stripped-Down Web Dev Boilerplate
+### (For Unserved, WebPack free, static stuff)
 
 ## Features:
 
 - a babelified, watchified, live-reloaded ES6 / module-based workflow 
-- Orbitcontrols and a cube
+- Bootstrap. C'mon, you know you want it.
 - That's it. The idea is to keep fluff to a minimum.
 
 ## Installation: 
