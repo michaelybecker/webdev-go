@@ -1,6 +1,6 @@
 {
   "name": "webdev-go",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A no-frills boilerplate for ES6 web dev",
   "main": "./src/app.js",
   "scripts": {
